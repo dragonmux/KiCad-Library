@@ -1,0 +1,20 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0V
+D Power symbol creates a global label with name "0V"
+K power-flag
+$ENDCMP
+#
+$CMP FXL2TD245L10X
+F https://www.farnell.com/datasheets/2304110.pdf
+$ENDCMP
+#
+$CMP FXL4TD245BQX
+F https://www.farnell.com/datasheets/2298347.pdf
+$ENDCMP
+#
+$CMP M24128
+F https://4donline.ihs.com/images/VipMasterIC/IC/SGST/SGST-S-A0003533303/SGST-S-A0003533303-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0
+$ENDCMP
+#
+#End Doc Library
