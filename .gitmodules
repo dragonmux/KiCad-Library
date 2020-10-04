@@ -1,0 +1,9 @@
+[submodule "osc.pretty"]
+	path = osc.pretty
+	url = git@github.com:DX-MON/osc.pretty.git
+[submodule "rcl.pretty"]
+	path = rcl.pretty
+	url = git@github.com:DX-MON/rcl.pretty.git
+[submodule "usb.pretty"]
+	path = usb.pretty
+	url = git@github.com:DX-MON/usb.pretty.git
