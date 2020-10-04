@@ -7,3 +7,6 @@
 [submodule "rhais_usb.pretty"]
 	path = rhais_usb.pretty
 	url = git@github.com:DX-MON/rhais_usb.pretty.git
+[submodule "rhais_package-smd.pretty"]
+	path = rhais_package-smd.pretty
+	url = git@github.com:DX-MON/rhais_package-smd.pretty.git
