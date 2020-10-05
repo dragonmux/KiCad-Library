@@ -10,3 +10,6 @@
 [submodule "rhais_package-smd.pretty"]
 	path = rhais_package-smd.pretty
 	url = git@github.com:DX-MON/rhais_package-smd.pretty.git
+[submodule "rhais_connector-pinheader.pretty"]
+	path = rhais_connector-pinheader.pretty
+	url = git@github.com:DX-MON/rhais_connector-pinheader.git
