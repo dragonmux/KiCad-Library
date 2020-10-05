@@ -16,3 +16,6 @@
 [submodule "rhais_connector-molex.pretty"]
 	path = rhais_connector-molex.pretty
 	url = git@github.com:DX-MON/rhais_connector-molex.git
+[submodule "rhais_package-qfn.pretty"]
+	path = rhais_package-qfn.pretty
+	url = git@github.com:DX-MON/rhais_package-qfn.pretty.git
