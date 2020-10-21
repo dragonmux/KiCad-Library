@@ -19,3 +19,9 @@
 [submodule "rhais_package-qfn.pretty"]
 	path = rhais_package-qfn.pretty
 	url = git@github.com:DX-MON/rhais_package-qfn.pretty.git
+[submodule "rhais_led.pretty"]
+	path = rhais_led.pretty
+	url = git@github.com:DX-MON/rhais_led.pretty.git
+[submodule "rhais_button-smd.pretty"]
+	path = rhais_button-smd.pretty
+	url = git@github.com:DX-MON/rhais_button-smd.pretty.git
