@@ -25,3 +25,6 @@
 [submodule "rhais_button-smd.pretty"]
 	path = rhais_button-smd.pretty
 	url = git@github.com:DX-MON/rhais_button-smd.pretty.git
+[submodule "rhais_connector-te.pretty"]
+	path = rhais_connector-te.pretty
+	url = https://github.com/DX-MON/rhais_connector-te.pretty
