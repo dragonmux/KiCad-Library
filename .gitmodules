@@ -31,3 +31,6 @@
 [submodule "rhais_switch-cherry.pretty"]
 	path = rhais_switch-cherry.pretty
 	url = https://github.com/DX-MON/rhais_switch-cherry.pretty
+[submodule "rhais_connector-multicomp.pretty"]
+	path = rhais_connector-multicomp.pretty
+	url = https://github.com/DX-MON/rhais_connector-multicomp.pretty
