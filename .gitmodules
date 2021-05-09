@@ -28,3 +28,6 @@
 [submodule "rhais_connector-te.pretty"]
 	path = rhais_connector-te.pretty
 	url = https://github.com/DX-MON/rhais_connector-te.pretty
+[submodule "rhais_switch-cherry.pretty"]
+	path = rhais_switch-cherry.pretty
+	url = https://github.com/DX-MON/rhais_switch-cherry.pretty
