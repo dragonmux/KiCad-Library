@@ -5,6 +5,10 @@ D Power symbol creates a global label with name "0V"
 K power-flag
 $ENDCMP
 #
+$CMP CYPD3177
+F https://www.cypress.com/file/460416/download
+$ENDCMP
+#
 $CMP FXL2TD245L10X
 F https://www.farnell.com/datasheets/2304110.pdf
 $ENDCMP
