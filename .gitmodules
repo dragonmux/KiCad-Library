@@ -34,3 +34,18 @@
 [submodule "rhais_connector-multicomp.pretty"]
 	path = rhais_connector-multicomp.pretty
 	url = https://github.com/DX-MON/rhais_connector-multicomp.pretty
+[submodule "rhais_switch.pretty"]
+	path = rhais_switch.pretty
+	url = https://github.com/DX-MON/rhais_switch.pretty
+[submodule "rhais_relay.pretty"]
+	path = rhais_relay.pretty
+	url = https://github.com/DX-MON/rhais_relay.pretty
+[submodule "rhais_bourns.pretty"]
+	path = rhais_bourns.pretty
+	url = https://github.com/DX-MON/rhais_bourns.pretty
+[submodule "rhais_package-vishay.pretty"]
+	path = rhais_package-vishay.pretty
+	url = https://github.com/DX-MON/rhais_package-vishay.pretty
+[submodule "rhais_package-to.pretty"]
+	path = rhais_package-to.pretty
+	url = https://github.com/DX-MON/rhais_package-to.pretty
