@@ -49,3 +49,24 @@
 [submodule "rhais_package-to.pretty"]
 	path = rhais_package-to.pretty
 	url = https://github.com/DX-MON/rhais_package-to.pretty
+[submodule "rhais_diode.pretty"]
+	path = rhais_diode.pretty
+	url = https://github.com/DX-MON/rhais_diode.pretty
+[submodule "rhais_diodes_inc.pretty"]
+	path = rhais_diodes_inc.pretty
+	url = https://github.com/DX-MON/rhais_diodes_inc.pretty
+[submodule "rhais_connector-optical.pretty"]
+	path = rhais_connector-optical.pretty
+	url = https://github.com/DX-MON/rhais_connector-optical.pretty
+[submodule "rhais_connector-lumberg.pretty"]
+	path = rhais_connector-lumberg.pretty
+	url = https://github.com/DX-MON/rhais_connector-lumberg.pretty
+[submodule "rhais_connector-jack.pretty"]
+	path = rhais_connector-jack.pretty
+	url = https://github.com/DX-MON/rhais_connector-jack.pretty
+[submodule "rhais_coilcraft.pretty"]
+	path = rhais_coilcraft.pretty
+	url = https://github.com/DX-MON/rhais_coilcraft.pretty
+[submodule "rhais_cherry.pretty"]
+	path = rhais_cherry.pretty
+	url = https://github.com/DX-MON/rhais_cherry.pretty
