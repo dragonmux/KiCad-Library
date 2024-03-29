@@ -1,72 +1,87 @@
 [submodule "rhais_osc.pretty"]
 	path = rhais_osc.pretty
-	url = git@github.com:DX-MON/rhais_osc.pretty.git
+	url = git@github.com:dragonmux/rhais_osc.pretty.git
 [submodule "rhais_rcl.pretty"]
 	path = rhais_rcl.pretty
-	url = git@github.com:DX-MON/rhais_rcl.pretty.git
+	url = git@github.com:dragonmux/rhais_rcl.pretty.git
 [submodule "rhais_usb.pretty"]
 	path = rhais_usb.pretty
-	url = git@github.com:DX-MON/rhais_usb.pretty.git
+	url = git@github.com:dragonmux/rhais_usb.pretty.git
 [submodule "rhais_package-smd.pretty"]
 	path = rhais_package-smd.pretty
-	url = git@github.com:DX-MON/rhais_package-smd.pretty.git
+	url = git@github.com:dragonmux/rhais_package-smd.pretty.git
 [submodule "rhais_connector-pinheader.pretty"]
 	path = rhais_connector-pinheader.pretty
-	url = git@github.com:DX-MON/rhais_connector-pinheader.git
+	url = git@github.com:dragonmux/rhais_connector-pinheader.git
 [submodule "rhais_connector-molex.pretty"]
 	path = rhais_connector-molex.pretty
-	url = git@github.com:DX-MON/rhais_connector-molex.git
+	url = git@github.com:dragonmux/rhais_connector-molex.git
 [submodule "rhais_package-qfn.pretty"]
 	path = rhais_package-qfn.pretty
-	url = git@github.com:DX-MON/rhais_package-qfn.pretty.git
+	url = git@github.com:dragonmux/rhais_package-qfn.pretty.git
 [submodule "rhais_led.pretty"]
 	path = rhais_led.pretty
-	url = git@github.com:DX-MON/rhais_led.pretty.git
+	url = git@github.com:dragonmux/rhais_led.pretty.git
 [submodule "rhais_button-smd.pretty"]
 	path = rhais_button-smd.pretty
-	url = git@github.com:DX-MON/rhais_button-smd.pretty.git
+	url = git@github.com:dragonmux/rhais_button-smd.pretty.git
 [submodule "rhais_connector-te.pretty"]
 	path = rhais_connector-te.pretty
-	url = https://github.com/DX-MON/rhais_connector-te.pretty
+	url = https://github.com/dragonmux/rhais_connector-te.pretty
 [submodule "rhais_switch-cherry.pretty"]
 	path = rhais_switch-cherry.pretty
-	url = https://github.com/DX-MON/rhais_switch-cherry.pretty
+	url = https://github.com/dragonmux/rhais_switch-cherry.pretty
 [submodule "rhais_connector-multicomp.pretty"]
 	path = rhais_connector-multicomp.pretty
-	url = https://github.com/DX-MON/rhais_connector-multicomp.pretty
+	url = https://github.com/dragonmux/rhais_connector-multicomp.pretty
 [submodule "rhais_switch.pretty"]
 	path = rhais_switch.pretty
-	url = https://github.com/DX-MON/rhais_switch.pretty
+	url = https://github.com/dragonmux/rhais_switch.pretty
 [submodule "rhais_relay.pretty"]
 	path = rhais_relay.pretty
-	url = https://github.com/DX-MON/rhais_relay.pretty
+	url = https://github.com/dragonmux/rhais_relay.pretty
 [submodule "rhais_bourns.pretty"]
 	path = rhais_bourns.pretty
-	url = https://github.com/DX-MON/rhais_bourns.pretty
+	url = https://github.com/dragonmux/rhais_bourns.pretty
 [submodule "rhais_package-vishay.pretty"]
 	path = rhais_package-vishay.pretty
-	url = https://github.com/DX-MON/rhais_package-vishay.pretty
+	url = https://github.com/dragonmux/rhais_package-vishay.pretty
 [submodule "rhais_package-to.pretty"]
 	path = rhais_package-to.pretty
-	url = https://github.com/DX-MON/rhais_package-to.pretty
+	url = https://github.com/dragonmux/rhais_package-to.pretty
 [submodule "rhais_diode.pretty"]
 	path = rhais_diode.pretty
-	url = https://github.com/DX-MON/rhais_diode.pretty
+	url = https://github.com/dragonmux/rhais_diode.pretty
 [submodule "rhais_diodes_inc.pretty"]
 	path = rhais_diodes_inc.pretty
-	url = https://github.com/DX-MON/rhais_diodes_inc.pretty
+	url = https://github.com/dragonmux/rhais_diodes_inc.pretty
 [submodule "rhais_connector-optical.pretty"]
 	path = rhais_connector-optical.pretty
-	url = https://github.com/DX-MON/rhais_connector-optical.pretty
+	url = https://github.com/dragonmux/rhais_connector-optical.pretty
 [submodule "rhais_connector-lumberg.pretty"]
 	path = rhais_connector-lumberg.pretty
-	url = https://github.com/DX-MON/rhais_connector-lumberg.pretty
+	url = https://github.com/dragonmux/rhais_connector-lumberg.pretty
 [submodule "rhais_connector-jack.pretty"]
 	path = rhais_connector-jack.pretty
-	url = https://github.com/DX-MON/rhais_connector-jack.pretty
+	url = https://github.com/dragonmux/rhais_connector-jack.pretty
 [submodule "rhais_coilcraft.pretty"]
 	path = rhais_coilcraft.pretty
-	url = https://github.com/DX-MON/rhais_coilcraft.pretty
+	url = https://github.com/dragonmux/rhais_coilcraft.pretty
 [submodule "rhais_cherry.pretty"]
 	path = rhais_cherry.pretty
-	url = https://github.com/DX-MON/rhais_cherry.pretty
+	url = https://github.com/dragonmux/rhais_cherry.pretty
+[submodule "rhais_tdk.pretty"]
+	path = rhais_tdk.pretty
+	url = https://github.com/dragonmux/rhais_tdk.pretty
+[submodule "rhais_connector-iec.pretty"]
+	path = rhais_connector-iec.pretty
+	url = https://github.com/dragonmux/rhais_connector-iec.pretty
+[submodule "rhais_connector-m2.pretty"]
+	path = rhais_connector-m2.pretty
+	url = https://github.com/dragonmux/rhais_connector-m2.pretty
+[submodule "rhais_package-bga.pretty"]
+	path = rhais_package-bga.pretty
+	url = https://github.com/dragonmux/rhais_package-bga.pretty
+[submodule "rhais_taiyo-yuden.pretty"]
+	path = rhais_taiyo-yuden.pretty
+	url = https://github.com/dragonmux/rhais_taiyo-yuden.pretty
