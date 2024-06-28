@@ -1,30 +1,30 @@
 [submodule "rhais_osc.pretty"]
 	path = rhais_osc.pretty
-	url = git@github.com:dragonmux/rhais_osc.pretty.git
+	url = https://github.com/dragonmux/rhais_osc.pretty.git
 [submodule "rhais_rcl.pretty"]
 	path = rhais_rcl.pretty
-	url = git@github.com:dragonmux/rhais_rcl.pretty.git
+	url = https://github.com/dragonmux/rhais_rcl.pretty.git
 [submodule "rhais_usb.pretty"]
 	path = rhais_usb.pretty
-	url = git@github.com:dragonmux/rhais_usb.pretty.git
+	url = https://github.com/dragonmux/rhais_usb.pretty.git
 [submodule "rhais_package-smd.pretty"]
 	path = rhais_package-smd.pretty
-	url = git@github.com:dragonmux/rhais_package-smd.pretty.git
+	url = https://github.com/dragonmux/rhais_package-smd.pretty.git
 [submodule "rhais_connector-pinheader.pretty"]
 	path = rhais_connector-pinheader.pretty
-	url = git@github.com:dragonmux/rhais_connector-pinheader.git
+	url = https://github.com/dragonmux/rhais_connector-pinheader.git
 [submodule "rhais_connector-molex.pretty"]
 	path = rhais_connector-molex.pretty
-	url = git@github.com:dragonmux/rhais_connector-molex.git
+	url = https://github.com/dragonmux/rhais_connector-molex.git
 [submodule "rhais_package-qfn.pretty"]
 	path = rhais_package-qfn.pretty
-	url = git@github.com:dragonmux/rhais_package-qfn.pretty.git
+	url = https://github.com/dragonmux/rhais_package-qfn.pretty.git
 [submodule "rhais_led.pretty"]
 	path = rhais_led.pretty
-	url = git@github.com:dragonmux/rhais_led.pretty.git
+	url = https://github.com/dragonmux/rhais_led.pretty.git
 [submodule "rhais_button-smd.pretty"]
 	path = rhais_button-smd.pretty
-	url = git@github.com:dragonmux/rhais_button-smd.pretty.git
+	url = https://github.com/dragonmux/rhais_button-smd.pretty.git
 [submodule "rhais_connector-te.pretty"]
 	path = rhais_connector-te.pretty
 	url = https://github.com/dragonmux/rhais_connector-te.pretty
