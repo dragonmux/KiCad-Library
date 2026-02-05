@@ -15,7 +15,7 @@
 	url = https://github.com/dragonmux/rhais_connector-pinheader.git
 [submodule "rhais_connector-molex.pretty"]
 	path = rhais_connector-molex.pretty
-	url = https://github.com/dragonmux/rhais_connector-molex.git
+	url = https://github.com/dragonmux/rhais_connector-molex.pretty.git
 [submodule "rhais_package-qfn.pretty"]
 	path = rhais_package-qfn.pretty
 	url = https://github.com/dragonmux/rhais_package-qfn.pretty.git
