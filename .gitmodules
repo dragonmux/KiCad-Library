@@ -85,3 +85,6 @@
 [submodule "rhais_taiyo-yuden.pretty"]
 	path = rhais_taiyo-yuden.pretty
 	url = https://github.com/dragonmux/rhais_taiyo-yuden.pretty
+[submodule "rhais_connector-amphenol.pretty"]
+	path = rhais_connector-amphenol.pretty
+	url = https://github.com/dragonmux/rhais_connector-amphenol.pretty
