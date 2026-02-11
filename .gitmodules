@@ -88,3 +88,6 @@
 [submodule "rhais_connector-amphenol.pretty"]
 	path = rhais_connector-amphenol.pretty
 	url = https://github.com/dragonmux/rhais_connector-amphenol.pretty
+[submodule "rhais_connector-dsub.pretty"]
+	path = rhais_connector-dsub.pretty
+	url = https://github.com/dragonmux/rhais_connector-dsub.pretty
